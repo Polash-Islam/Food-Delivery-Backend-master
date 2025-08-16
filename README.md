@@ -42,7 +42,7 @@ This is the backend REST API of a food delivery application, which allows users 
 
 ### Frontend:
 
-- Angular (link🚀 - https://github.com/iamkhs/food-app-front-end)
+- Angular (link🚀 - https://github.com/Polash-Islam/food-app-front-end-main
 
 ## Configuration:
 
